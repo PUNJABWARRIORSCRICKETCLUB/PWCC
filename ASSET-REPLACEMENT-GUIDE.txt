@@ -1,0 +1,36 @@
+PUNJAB WARRIORS — ASSET REPLACEMENT GUIDE
+
+Replace the Coming Soon SVGs with your real images when ready.
+Keep the same filenames for the easiest workflow, OR update the matching path in data.js.
+
+Player photos:
+  assets/coming-soon-player.svg
+  Replace each player's image value in data.js.
+
+Official jersey:
+  assets/coming-soon-jersey.svg
+  Replace SITE_DATA.assets.uniform in data.js.
+
+Opponent/match logos:
+  assets/coming-soon-match.svg
+  Replace fixtures[].opponentLogo in data.js.
+
+Sponsor logos:
+  assets/coming-soon-sponsor.svg
+  Replace each sponsor.logo in data.js.
+
+Gallery images:
+  assets/coming-soon-gallery.svg
+  Replace gallery[].image in data.js.
+
+News images:
+  assets/coming-soon-news.svg
+  Replace news[].image in data.js.
+
+Video thumbnails / embeds:
+  assets/coming-soon-video.svg
+  Replace videos[].youtube with real YouTube URLs in data.js.
+
+The two supplied Punjab Warriors logos remain:
+  assets/main-logo.png   = main website logo
+  assets/loader-logo.png = detailed loading-screen logo

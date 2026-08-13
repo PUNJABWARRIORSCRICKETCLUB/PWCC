@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 850">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0a0b0d"/><stop offset=".5" stop-color="#1a1b1f"/><stop offset="1" stop-color="#08090b"/></linearGradient></defs>
+<rect width="700" height="850" fill="url(#g)"/><circle cx="350" cy="285" r="122" fill="#25282d" stroke="#c9a227" stroke-width="3"/><path d="M155 730c25-170 115-250 195-250s170 80 195 250" fill="#25282d" stroke="#c9a227" stroke-width="3"/>
+<text x="350" y="790" text-anchor="middle" fill="#ead48b" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="4">COMING SOON</text>
+<text x="350" y="825" text-anchor="middle" fill="#8e949e" font-family="Arial,sans-serif" font-size="17" letter-spacing="2">PLAYER PHOTO</text>
+</svg>
