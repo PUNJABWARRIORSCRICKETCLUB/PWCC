@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
-<rect width="900" height="1100" fill="#08090b"/><rect x="35" y="35" width="830" height="1030" rx="36" fill="none" stroke="#c9a227" stroke-width="3"/>
-<path d="M290 260l90-70h140l90 70 120 55-75 170-65-35v380H320V450l-65 35-75-170z" fill="#17191d" stroke="#d4af37" stroke-width="4"/>
-<text x="450" y="760" text-anchor="middle" fill="#ead48b" font-family="Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="5">COMING SOON</text>
-<text x="450" y="810" text-anchor="middle" fill="#999" font-family="Arial,sans-serif" font-size="25" letter-spacing="2">OFFICIAL MATCH JERSEY</text>
-<text x="450" y="855" text-anchor="middle" fill="#777" font-family="Arial,sans-serif" font-size="18">Replace this file with the final uniform image</text>
-</svg>
